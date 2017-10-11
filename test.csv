@@ -1,0 +1,251 @@
+beerID,breweryURL,breweryName,beerName,beerURL,style,abv,avg,rank
+1,/beer/profile/23222/,"Toppling Goliath Brewing Company","Kentucky Brunch Brand Stout",/beer/profile/23222/78820/,"American Double / Imperial Stout",NULL,NULL,1
+10,/beer/profile/23222/,"Toppling Goliath Brewing Company","Mornin' Delight",/beer/profile/23222/76421/,"American Double / Imperial Stout",NULL,NULL,10
+100,/beer/profile/22511/,"Hill Farmstead Brewery",Clover,/beer/profile/22511/172244/,"Saison / Farmhouse Ale",NULL,NULL,100
+101,/beer/profile/1471/,"Dark Horse Brewing Company","Dark Horse Bourbon Barrel Aged Plead The 5th",/beer/profile/1471/60426/,"Russian Imperial Stout",NULL,NULL,101
+102,/beer/profile/30654/,"Trillium Brewing Company","Mosaic Dry Hopped Fort Point",/beer/profile/30654/154542/,"American Pale Ale (APA)",NULL,NULL,102
+103,/beer/profile/22511/,"Hill Farmstead Brewery",Ephraim,/beer/profile/22511/62172/,"American Double / Imperial IPA",NULL,NULL,103
+104,/beer/profile/1199/,"Founders Brewing Company","Founders Breakfast Stout",/beer/profile/1199/11757/,"American Double / Imperial Stout",NULL,NULL,104
+105,/beer/profile/36710/,"J. Wakefield Brewing","Dragon Fruit Passion Fruit Berliner",/beer/profile/36710/153168/,"Berliner Weissbier",NULL,NULL,105
+106,/beer/profile/22511/,"Hill Farmstead Brewery","Society & Solitude #5",/beer/profile/22511/85523/,"American Double / Imperial IPA",NULL,NULL,106
+107,/beer/profile/18149/,"The Lost Abbey","Cable Car",/beer/profile/18149/38149/,"American Wild Ale",NULL,NULL,107
+108,/beer/profile/2681/,"Oskar Blues Grill & Brew","Ten FIDY Bourbon Barrel Aged",/beer/profile/2681/189272/,"Russian Imperial Stout",NULL,NULL,108
+109,/beer/profile/207/,"Brasserie de Rochefort","Trappistes Rochefort 10",/beer/profile/207/645/,"Quadrupel (Quad)",NULL,NULL,109
+11,/beer/profile/26/,"3 Floyds Brewing Co.","Marshmallow Handjee (Bourbon Barrel Aged Vanilla Bean Dark Lord)",/beer/profile/26/42349/,"Russian Imperial Stout",NULL,NULL,11
+110,/beer/profile/24018/,"Jester King Brewery","Montmorency Vs Balaton",/beer/profile/24018/114236/,"American Wild Ale",NULL,NULL,110
+111,/beer/profile/30356/,"Prairie Artisan Ales","Pirate Paradise",/beer/profile/30356/247386/,"American Double / Imperial Stout",NULL,NULL,111
+112,/beer/profile/2216/,"Brouwerij 3 Fonteinen","Drie Fonteinen Oude Geuze Vintage",/beer/profile/2216/30517/,Gueuze,NULL,NULL,112
+113,/beer/profile/313/,"Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 8 (VIII)",/beer/profile/313/857/,Dubbel,NULL,NULL,113
+114,/beer/profile/30654/,"Trillium Brewing Company","Congress Street IPA",/beer/profile/30654/100443/,"American IPA",NULL,NULL,114
+115,/beer/profile/28019/,"Sante Adairius Rustic Ales","Saison Bernice",/beer/profile/28019/84487/,"Saison / Farmhouse Ale",NULL,NULL,115
+116,/beer/profile/31805/,"Funky Buddha Brewery","Last Buffalo In The Park",/beer/profile/31805/153905/,"American Porter",NULL,NULL,116
+117,/beer/profile/22511/,"Hill Farmstead Brewery",Susan,/beer/profile/22511/86487/,"American IPA",NULL,NULL,117
+118,/beer/profile/30654/,"Trillium Brewing Company","Upper Case",/beer/profile/30654/162357/,"American Double / Imperial IPA",NULL,NULL,118
+119,/beer/profile/16866/,"The Bruery","Black Tuesday",/beer/profile/16866/51257/,"American Double / Imperial Stout",NULL,NULL,119
+12,/beer/profile/28743/,"Tree House Brewing Company","Very Green",/beer/profile/28743/122114/,"American Double / Imperial IPA",NULL,NULL,12
+120,/beer/profile/24300/,"Evil Twin Brewing","Imperial Biscotti Break Bourbon Barrel Aged",/beer/profile/24300/104699/,"American Double / Imperial Stout",NULL,NULL,120
+121,/beer/profile/25888/,"Perennial Artisan Ales",Maman,/beer/profile/25888/141394/,"American Double / Imperial Stout",NULL,NULL,121
+122,/beer/profile/2216/,"Brouwerij 3 Fonteinen","Drie Fonteinen Oude Geuze Golden Blend",/beer/profile/2216/79387/,Gueuze,NULL,NULL,122
+123,/beer/profile/20680/,"Fremont Brewing Company","Bourbon Barrel Aged Dark Star: Coffee Edition",/beer/profile/20680/143753/,"Oatmeal Stout",NULL,NULL,123
+124,/beer/profile/22511/,"Hill Farmstead Brewery","Everett Porter",/beer/profile/22511/61062/,"American Porter",NULL,NULL,124
+125,/beer/profile/863/,"Russian River Brewing Company",Beatification,/beer/profile/863/27992/,"American Wild Ale",NULL,NULL,125
+126,/beer/profile/30654/,"Trillium Brewing Company","Heavy Mettle",/beer/profile/30654/130699/,"American Double / Imperial IPA",NULL,NULL,126
+127,/beer/profile/32319/,"Side Project Brewing","Black & Wild",/beer/profile/32319/118391/,"American Wild Ale",NULL,NULL,127
+128,/beer/profile/396/,"AleSmith Brewing Company","AleSmith Speedway Stout - Bourbon Barrel Aged",/beer/profile/396/31484/,"American Double / Imperial Stout",NULL,NULL,128
+129,/beer/profile/30654/,"Trillium Brewing Company","Fort Point Pale Ale",/beer/profile/30654/88949/,"American Pale Ale (APA)",NULL,NULL,129
+13,/beer/profile/20681/,"Maine Beer Company",Dinner,/beer/profile/20681/115317/,"American Double / Imperial IPA",NULL,NULL,13
+130,/beer/profile/2210/,"Firestone Walker Brewing Co.",§ucaba,/beer/profile/2210/41121/,"English Barleywine",NULL,NULL,130
+131,/beer/profile/13014/,"Surly Brewing Company","Abrasive Ale",/beer/profile/13014/46849/,"American Double / Imperial IPA",NULL,NULL,131
+132,/beer/profile/1432/,"Jackie O's Pub & Brewery","Bourbon Barrel Champion Ground",/beer/profile/1432/187700/,"American Double / Imperial Stout",NULL,NULL,132
+133,/beer/profile/20680/,"Fremont Brewing Company","Bourbon Barrel Aged Dark Star Oatmeal Stout",/beer/profile/20680/140119/,"Oatmeal Stout",NULL,NULL,133
+134,/beer/profile/30654/,"Trillium Brewing Company","Cutting Tiles (Galaxy)",/beer/profile/30654/245080/,"American Double / Imperial IPA",NULL,NULL,134
+135,/beer/profile/29922/,"Heist Brewery",Citraquench'l,/beer/profile/29922/220784/,"American IPA",NULL,NULL,135
+136,/beer/profile/26/,"3 Floyds Brewing Co.","Permanent Funeral",/beer/profile/26/91670/,"American Double / Imperial IPA",NULL,NULL,136
+137,/beer/profile/32319/,"Side Project Brewing","Abricot Du Fermier",/beer/profile/32319/137889/,"Saison / Farmhouse Ale",NULL,NULL,137
+138,/beer/profile/24903/,"Anchorage Brewing Company","A Deal With The Devil",/beer/profile/24903/89499/,"American Barleywine",NULL,NULL,138
+139,/beer/profile/26753/,"Hardywood Park Craft Brewery",Trickery,/beer/profile/26753/140742/,"Milk / Sweet Stout",NULL,NULL,139
+14,/beer/profile/33824/,"Bottle Logic Brewing","Fundamental Observation",/beer/profile/33824/172669/,"American Double / Imperial Stout",NULL,NULL,14
+140,/beer/profile/2210/,"Firestone Walker Brewing Co.","Stickee Monkee",/beer/profile/2210/63249/,"Quadrupel (Quad)",NULL,NULL,140
+141,/beer/profile/173/,"Hair of the Dog Brewing Company / Brewery and Tasting Room","Adam From The Wood",/beer/profile/173/20767/,"Old Ale",NULL,NULL,141
+142,/beer/profile/32319/,"Side Project Brewing","Oude Fermier",/beer/profile/32319/126669/,"Saison / Farmhouse Ale",NULL,NULL,142
+143,/beer/profile/26753/,"Hardywood Park Craft Brewery","Kentucky Christmas Morning",/beer/profile/26753/200758/,"Milk / Sweet Stout",NULL,NULL,143
+144,/beer/profile/22511/,"Hill Farmstead Brewery",Juicy,/beer/profile/22511/87341/,"Saison / Farmhouse Ale",NULL,NULL,144
+145,/beer/profile/22511/,"Hill Farmstead Brewery","Genealogy Of Morals (Bourbon Barrel Aged)",/beer/profile/22511/96955/,"American Double / Imperial Stout",NULL,NULL,145
+146,/beer/profile/31805/,"Funky Buddha Brewery","Maple Bacon Coffee Porter",/beer/profile/31805/62761/,"American Porter",NULL,NULL,146
+147,/beer/profile/33824/,"Bottle Logic Brewing","Ground State",/beer/profile/33824/220224/,"American Double / Imperial Stout",NULL,NULL,147
+148,/beer/profile/147/,"Stone Brewing","Imperial Russian Stout - Bourbon Barrel Aged",/beer/profile/147/52752/,"Russian Imperial Stout",NULL,NULL,148
+149,/beer/profile/11599/,"Green Man Brewery",Snozzberry,/beer/profile/11599/107950/,"American Wild Ale",NULL,NULL,149
+15,/beer/profile/28743/,"Tree House Brewing Company","Juice Machine",/beer/profile/28743/207976/,"American Double / Imperial IPA",NULL,NULL,15
+150,/beer/profile/30356/,"Prairie Artisan Ales","Barrel Aged Bomb!",/beer/profile/30356/139521/,"American Double / Imperial Stout",NULL,NULL,150
+151,/beer/profile/1432/,"Jackie O's Pub & Brewery","Bourbon Barrel Oro Negro",/beer/profile/1432/243557/,"American Double / Imperial Stout",NULL,NULL,151
+152,/beer/profile/18563/,"Lift Bridge Brewery","Barrel-Aged Silhouette",/beer/profile/18563/89958/,"Russian Imperial Stout",NULL,NULL,152
+153,/beer/profile/30356/,"Prairie Artisan Ales","Prairie Apple Brandy Noir",/beer/profile/30356/149331/,"American Double / Imperial Stout",NULL,NULL,153
+154,/beer/profile/28019/,"Sante Adairius Rustic Ales","West Ashley",/beer/profile/28019/84772/,"American Wild Ale",NULL,NULL,154
+155,/beer/profile/30654/,"Trillium Brewing Company","Double Dry Hopped Melcher Street",/beer/profile/30654/150209/,"American IPA",NULL,NULL,155
+156,/beer/profile/22511/,"Hill Farmstead Brewery","Society & Solitude #6",/beer/profile/22511/90634/,"American Double / Imperial IPA",NULL,NULL,156
+157,/beer/profile/24445/,"Haymarket Beer Co. Pub & Brewery","Clare's Thirsty Ale",/beer/profile/24445/75343/,"American Double / Imperial Stout",NULL,NULL,157
+158,/beer/profile/25888/,"Perennial Artisan Ales",Abraxas,/beer/profile/25888/76393/,"American Double / Imperial Stout",NULL,NULL,158
+159,/beer/profile/13014/,"Surly Brewing Company","Todd The Axe Man",/beer/profile/13014/138735/,"American IPA",NULL,NULL,159
+16,/beer/profile/28743/,"Tree House Brewing Company",Julius,/beer/profile/28743/86237/,"American IPA",NULL,NULL,16
+160,/beer/profile/41869/,"Great Notion Brewing","Double Stack",/beer/profile/41869/189180/,"American Double / Imperial Stout",NULL,NULL,160
+161,/beer/profile/2216/,"Brouwerij 3 Fonteinen","Drie Fonteinen Framboos",/beer/profile/2216/8773/,"Lambic - Fruit",NULL,NULL,161
+162,/beer/profile/30654/,"Trillium Brewing Company","Double Dry Hopped Sleeper Street",/beer/profile/30654/156082/,"American IPA",NULL,NULL,162
+163,/beer/profile/31805/,"Funky Buddha Brewery","Last Snow",/beer/profile/31805/75446/,"American Porter",NULL,NULL,163
+164,/beer/profile/35412/,"Cycle Brewing","Trademark Dispute: Pallet 1",/beer/profile/35412/178753/,"American Double / Imperial Stout",NULL,NULL,164
+165,/beer/profile/17981/,"Cigar City Brewing","Life Is Like...",/beer/profile/17981/98045/,"Milk / Sweet Stout",NULL,NULL,165
+166,/beer/profile/30356/,"Prairie Artisan Ales","Prairie Barrel Aged Bomb! (Fred's Blend)",/beer/profile/30356/135125/,"American Double / Imperial Stout",NULL,NULL,166
+167,/beer/profile/33510/,"Other Half Brewing Co.","Mosaic IPA",/beer/profile/33510/169450/,"American IPA",NULL,NULL,167
+168,/beer/profile/287/,"Bell's Brewery, Inc.","Hopslam Ale",/beer/profile/287/17112/,"American Double / Imperial IPA",NULL,NULL,168
+169,/beer/profile/19544/,"Fat Head's Brewery & Saloon","Hop JuJu Imperial IPA",/beer/profile/19544/52928/,"American Double / Imperial IPA",NULL,NULL,169
+17,/beer/profile/17980/,"Lawson's Finest Liquids","Triple Sunshine IPA",/beer/profile/17980/120372/,"American Double / Imperial IPA",NULL,NULL,17
+170,/beer/profile/33510/,"Other Half Brewing Co.","Double Dry Hopped All Citra Everything",/beer/profile/33510/254441/,"American Double / Imperial IPA",NULL,NULL,170
+171,/beer/profile/27919/,"Fiddlehead Brewing Company","Second Fiddle",/beer/profile/27919/127652/,"American Double / Imperial IPA",NULL,NULL,171
+172,/beer/profile/33824/,"Bottle Logic Brewing","Space Trace",/beer/profile/33824/221353/,"American Double / Imperial Stout",NULL,NULL,172
+173,/beer/profile/32893/,"Grimm Artisanal Ales",Lumen,/beer/profile/32893/204693/,"American IPA",NULL,NULL,173
+174,/beer/profile/396/,"AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee",/beer/profile/396/75218/,"American Double / Imperial Stout",NULL,NULL,174
+175,/beer/profile/30654/,"Trillium Brewing Company","Scaled Up",/beer/profile/30654/206204/,"American Double / Imperial IPA",NULL,NULL,175
+176,/beer/profile/30654/,"Trillium Brewing Company","Dialed In (w/ Sauvignon Blanc Juice)",/beer/profile/30654/217848/,"American Double / Imperial IPA",NULL,NULL,176
+177,/beer/profile/341/,"Columbus Brewing Company","Columbus Bodhi",/beer/profile/341/53187/,"American Double / Imperial IPA",NULL,NULL,177
+178,/beer/profile/30654/,"Trillium Brewing Company","The Streets",/beer/profile/30654/272550/,"American Double / Imperial IPA",NULL,NULL,178
+179,/beer/profile/216/,"Brouwerij Rodenbach N.V.","Rodenbach Caractère Rouge",/beer/profile/216/74778/,"Flanders Red Ale",NULL,NULL,179
+18,/beer/profile/1199/,"Founders Brewing Company","Founders CBS (Canadian Breakfast Stout)",/beer/profile/1199/47658/,"American Double / Imperial Stout",NULL,NULL,18
+180,/beer/profile/16866/,"The Bruery","Chocolate Rain",/beer/profile/16866/53728/,"American Double / Imperial Stout",NULL,NULL,180
+181,/beer/profile/42560/,"Aslin Beer Company","Orange Starfish",/beer/profile/42560/211764/,"American IPA",NULL,NULL,181
+182,/beer/profile/22511/,"Hill Farmstead Brewery","Damon (Bourbon Barrel Aged)",/beer/profile/22511/77273/,"Russian Imperial Stout",NULL,NULL,182
+183,/beer/profile/259/,"Brouwerij St. Bernardus NV","St. Bernardus Abt 12",/beer/profile/259/1708/,"Quadrupel (Quad)",NULL,NULL,183
+184,/beer/profile/388/,"Brasserie Cantillon","Cantillon Lou Pepe - Framboise",/beer/profile/388/13825/,"Lambic - Fruit",NULL,NULL,184
+185,/beer/profile/33824/,"Bottle Logic Brewing","Leche Borracho",/beer/profile/33824/120155/,"American Double / Imperial Stout",NULL,NULL,185
+186,/beer/profile/388/,"Brasserie Cantillon","Cantillon Saint Lamvinus",/beer/profile/388/8954/,"Lambic - Fruit",NULL,NULL,186
+187,/beer/profile/28178/,"Pipeworks Brewing Company","Sure Bet",/beer/profile/28178/147095/,"American Double / Imperial IPA",NULL,NULL,187
+188,/beer/profile/14936/,"FiftyFifty Brewing Co.","Imperial Eclipse Stout - Elijah Craig (12 Year)",/beer/profile/14936/55063/,"American Double / Imperial Stout",NULL,NULL,188
+189,/beer/profile/30179/,"Hoof Hearted Brewing",Dragonsaddle,/beer/profile/30179/113655/,"American Double / Imperial IPA",NULL,NULL,189
+19,/beer/profile/28743/,"Tree House Brewing Company",Doubleganger,/beer/profile/28743/259249/,"American Double / Imperial IPA",NULL,NULL,19
+190,/beer/profile/22511/,"Hill Farmstead Brewery","Double Nelson",/beer/profile/22511/264355/,"American Double / Imperial IPA",NULL,NULL,190
+191,/beer/profile/357/,"New England Brewing Co.","Locust Reign",/beer/profile/357/128419/,"American Double / Imperial IPA",NULL,NULL,191
+192,/beer/profile/24822/,"Parish Brewing Company","Ghost In The Machine",/beer/profile/24822/113403/,"American Double / Imperial IPA",NULL,NULL,192
+193,/beer/profile/13014/,"Surly Brewing Company",Darkness,/beer/profile/13014/33127/,"Russian Imperial Stout",NULL,NULL,193
+194,/beer/profile/1432/,"Jackie O's Pub & Brewery","Oro Negro",/beer/profile/1432/137747/,"American Double / Imperial Stout",NULL,NULL,194
+195,/beer/profile/26/,"3 Floyds Brewing Co.","3 Floyds / The Bruery Rue D'Floyd",/beer/profile/26/121349/,"American Porter",NULL,NULL,195
+196,/beer/profile/35412/,"Cycle Brewing","Trademark Dispute: &+",/beer/profile/35412/186306/,"American Double / Imperial Stout",NULL,NULL,196
+197,/beer/profile/27870/,"4 Hands Brewing Co.",Madagascar,/beer/profile/27870/112968/,"Milk / Sweet Stout",NULL,NULL,197
+198,/beer/profile/220/,"Lagunitas Brewing Company","Born Yesterday APA",/beer/profile/220/133621/,"American Pale Ale (APA)",NULL,NULL,198
+199,/beer/profile/42560/,"Aslin Beer Company","Mind The Hop",/beer/profile/42560/194206/,"American Double / Imperial IPA",NULL,NULL,199
+2,/beer/profile/28743/,"Tree House Brewing Company","Good Morning",/beer/profile/28743/136936/,"American Double / Imperial Stout",NULL,NULL,2
+20,/beer/profile/396/,"AleSmith Brewing Company","AleSmith Speedway Stout - Vietnamese Coffee (Bourbon Barrel Aged)",/beer/profile/396/123286/,"American Double / Imperial Stout",NULL,NULL,20
+200,/beer/profile/3120/,"Alpine Beer Company","Bad Boy",/beer/profile/3120/34090/,"American Double / Imperial IPA",NULL,NULL,200
+201,/beer/profile/1304/,"Pelican Pub & Brewery","Mother Of All Storms",/beer/profile/1304/46230/,"English Barleywine",NULL,NULL,201
+202,/beer/profile/29952/,"Perrin Brewery","No Rules",/beer/profile/29952/172420/,"American Porter",NULL,NULL,202
+203,/beer/profile/216/,"Brouwerij Rodenbach N.V.","Rodenbach Alexander ",/beer/profile/216/217800/,"Flanders Red Ale",NULL,NULL,203
+204,/beer/profile/863/,"Russian River Brewing Company",Consecration,/beer/profile/863/45653/,"American Wild Ale",NULL,NULL,204
+205,/beer/profile/33824/,"Bottle Logic Brewing","Darkstar November",/beer/profile/33824/143023/,"Russian Imperial Stout",NULL,NULL,205
+206,/beer/profile/22412/,"Noble Ale Works","Citra Showers",/beer/profile/22412/109450/,"American Double / Imperial IPA",NULL,NULL,206
+207,/beer/profile/357/,"New England Brewing Co.",Coriolis,/beer/profile/357/84731/,"American Double / Imperial IPA",NULL,NULL,207
+208,/beer/profile/30380/,"The Lone Pint Brewery","Yellow Rose",/beer/profile/30380/92960/,"American IPA",NULL,NULL,208
+209,/beer/profile/2391/,"Cascade Brewing / Raccoon Lodge & Brewpub","Sang Noir",/beer/profile/2391/56266/,"American Wild Ale",NULL,NULL,209
+21,/beer/profile/28743/,"Tree House Brewing Company",JJJuliusss,/beer/profile/28743/174063/,"American IPA",NULL,NULL,21
+210,/beer/profile/863/,"Russian River Brewing Company",Temptation,/beer/profile/863/9474/,"American Wild Ale",NULL,NULL,210
+211,/beer/profile/23222/,"Toppling Goliath Brewing Company","XHOPS (Gold Label)",/beer/profile/23222/206803/,"American Pale Ale (APA)",NULL,NULL,211
+212,/beer/profile/34208/,"Foundation Brewing Company",Epiphany,/beer/profile/34208/152023/,"American Double / Imperial IPA",NULL,NULL,212
+213,/beer/profile/30654/,"Trillium Brewing Company","Double Dry Hopped Scaled",/beer/profile/30654/209635/,"American IPA",NULL,NULL,213
+214,/beer/profile/35/,"Boston Beer Company (Samuel Adams)","Samuel Adams Utopias",/beer/profile/35/25759/,"American Strong Ale",NULL,NULL,214
+215,/beer/profile/16866/,"The Bruery","Mocha Wednesday",/beer/profile/16866/109989/,"American Double / Imperial Stout",NULL,NULL,215
+216,/beer/profile/28994/,"Societe Brewing Co.","The Pupil",/beer/profile/28994/81838/,"American IPA",NULL,NULL,216
+217,/beer/profile/30/,"Avery Brewing Company",Tweak,/beer/profile/30/56199/,"American Double / Imperial Stout",NULL,NULL,217
+218,/beer/profile/30654/,"Trillium Brewing Company","Dialed In (w/  Pinot Gris Juice)",/beer/profile/30654/252234/,"American Double / Imperial IPA",NULL,NULL,218
+219,/beer/profile/25888/,"Perennial Artisan Ales","Coffee Abraxas",/beer/profile/25888/101578/,"American Double / Imperial Stout",NULL,NULL,219
+22,/beer/profile/23222/,"Toppling Goliath Brewing Company","King Sue",/beer/profile/23222/113674/,"American Double / Imperial IPA",NULL,NULL,22
+220,/beer/profile/252/,"Bayerische Staatsbrauerei Weihenstephan","Weihenstephaner Hefeweissbier",/beer/profile/252/731/,Hefeweizen,NULL,NULL,220
+221,/beer/profile/16866/,"The Bruery","Collaboration Series: Rue D'Floyd",/beer/profile/16866/116417/,"American Porter",NULL,NULL,221
+222,/beer/profile/1141/,"Brasserie Dieu du Ciel!","Péché Mortel",/beer/profile/1141/10325/,"American Double / Imperial Stout",NULL,NULL,222
+223,/beer/profile/32893/,"Grimm Artisanal Ales",Afterimage,/beer/profile/32893/186293/,"American Double / Imperial IPA",NULL,NULL,223
+224,/beer/profile/1154/,"Willoughby Brewing","Nut Smasher",/beer/profile/1154/150223/,"American Double / Imperial Stout",NULL,NULL,224
+225,/beer/profile/28019/,"Sante Adairius Rustic Ales","Sante Adairius / Triple Rock Cellarman Barrel Aged Saison",/beer/profile/28019/157616/,"Saison / Farmhouse Ale",NULL,NULL,225
+226,/beer/profile/1141/,"Brasserie Dieu du Ciel!","Péché Mortel En Fût De Bourbon Américain",/beer/profile/1141/50803/,"American Double / Imperial Stout",NULL,NULL,226
+227,/beer/profile/35412/,"Cycle Brewing","Trademark Dispute: Nooner 10",/beer/profile/35412/186302/,"American Double / Imperial Stout",NULL,NULL,227
+228,/beer/profile/30654/,"Trillium Brewing Company",Vicinity,/beer/profile/30654/145496/,"American Double / Imperial IPA",NULL,NULL,228
+229,/beer/profile/30452/,"SingleCut Beersmiths","Softly Spoken Magic Spells",/beer/profile/30452/221622/,"American Double / Imperial IPA",NULL,NULL,229
+23,/beer/profile/313/,"Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)","Trappist Westvleteren 12 (XII)",/beer/profile/313/1545/,"Quadrupel (Quad)",NULL,NULL,23
+230,/beer/profile/147/,"Stone Brewing","Stone Enjoy By IPA",/beer/profile/147/84596/,"American Double / Imperial IPA",NULL,NULL,230
+231,/beer/profile/3120/,"Alpine Beer Company",Great,/beer/profile/3120/25364/,"American Barleywine",NULL,NULL,231
+232,/beer/profile/26/,"3 Floyds Brewing Co.","Dreadnaught IPA",/beer/profile/26/1558/,"American Double / Imperial IPA",NULL,NULL,232
+233,/beer/profile/24134/,"Westbrook Brewing Co.","Mexican Coffee Cake",/beer/profile/24134/78913/,"American Double / Imperial Stout",NULL,NULL,233
+234,/beer/profile/16866/,"The Bruery","Grey Monday",/beer/profile/16866/74295/,"American Double / Imperial Stout",NULL,NULL,234
+235,/beer/profile/35412/,"Cycle Brewing","Rare DOS",/beer/profile/35412/145662/,"American Double / Imperial Stout",NULL,NULL,235
+236,/beer/profile/18149/,"The Lost Abbey","Box Set Track #10 - Bat Out Of Hell",/beer/profile/18149/76008/,"American Double / Imperial Stout",NULL,NULL,236
+237,/beer/profile/33510/,"Other Half Brewing Co.","All Green Everything",/beer/profile/33510/119182/,"American Double / Imperial IPA",NULL,NULL,237
+238,/beer/profile/28178/,"Pipeworks Brewing Company","Pipeworks / 4 Hands Emerald Grouper",/beer/profile/28178/106161/,"American Double / Imperial IPA",NULL,NULL,238
+239,/beer/profile/1432/,"Jackie O's Pub & Brewery","Bourbon Barrel Black Maple",/beer/profile/1432/132105/,"American Porter",NULL,NULL,239
+24,/beer/profile/26676/,"Kane Brewing Company","Sunday Brunch",/beer/profile/26676/129108/,"American Porter",NULL,NULL,24
+240,/beer/profile/24134/,"Westbrook Brewing Co.","Mexican Cake",/beer/profile/24134/78011/,"American Double / Imperial Stout",NULL,NULL,240
+241,/beer/profile/32893/,"Grimm Artisanal Ales","Lambo Door",/beer/profile/32893/181690/,"American Double / Imperial IPA",NULL,NULL,241
+242,/beer/profile/23222/,"Toppling Goliath Brewing Company",HOPSMACK!,/beer/profile/23222/136674/,"American Double / Imperial IPA",NULL,NULL,242
+243,/beer/profile/22951/,"Clown Shoes","Breakfast Exorcism",/beer/profile/22951/168747/,"American Double / Imperial Stout",NULL,NULL,243
+244,/beer/profile/22511/,"Hill Farmstead Brewery",Edward,/beer/profile/22511/57886/,"American Pale Ale (APA)",NULL,NULL,244
+245,/beer/profile/28178/,"Pipeworks Brewing Company","Spotted Puffer",/beer/profile/28178/176453/,"American Double / Imperial IPA",NULL,NULL,245
+246,/beer/profile/25710/,"Logsdon Farmhouse Ales","Peche 'n Brett",/beer/profile/25710/81079/,"Saison / Farmhouse Ale",NULL,NULL,246
+247,/beer/profile/2216/,"Brouwerij 3 Fonteinen","Drie Fonteinen Hommage",/beer/profile/2216/39096/,"Lambic - Fruit",NULL,NULL,247
+248,/beer/profile/173/,"Hair of the Dog Brewing Company / Brewery and Tasting Room",Matt,/beer/profile/173/47546/,"American Strong Ale",NULL,NULL,248
+249,/beer/profile/388/,"Brasserie Cantillon","Cantillon Lou Pepe - Gueuze",/beer/profile/388/13826/,Gueuze,NULL,NULL,249
+25,/beer/profile/863/,"Russian River Brewing Company","Pliny The Elder",/beer/profile/863/7971/,"American Double / Imperial IPA",NULL,NULL,25
+250,/beer/profile/46317/,"The Alchemist Brewery and Visitors Center",Luscious,/beer/profile/46317/73943/,"Russian Imperial Stout",NULL,NULL,250
+26,/beer/profile/31805/,"Funky Buddha Brewery","Morning Wood",/beer/profile/31805/77563/,"American Porter",NULL,NULL,26
+27,/beer/profile/1146/,"Goose Island Beer Co.","Bourbon County Brand Coffee Stout",/beer/profile/1146/57747/,"American Double / Imperial Stout",NULL,NULL,27
+28,/beer/profile/31805/,"Funky Buddha Brewery","Snowed In - Bourbon Barrel Aged",/beer/profile/31805/179485/,"American Porter",NULL,NULL,28
+29,/beer/profile/23222/,"Toppling Goliath Brewing Company","Double Dry Hop PseudoSue (Citra)",/beer/profile/23222/232168/,"American Pale Ale (APA)",NULL,NULL,29
+3,/beer/profile/28743/,"Tree House Brewing Company","Very Hazy",/beer/profile/28743/146770/,"American Double / Imperial IPA",NULL,NULL,3
+30,/beer/profile/22511/,"Hill Farmstead Brewery",Abner,/beer/profile/22511/58299/,"American Double / Imperial IPA",NULL,NULL,30
+31,/beer/profile/28743/,"Tree House Brewing Company",Green,/beer/profile/28743/88969/,"American IPA",NULL,NULL,31
+32,/beer/profile/46317/,"The Alchemist Brewery and Visitors Center","Focal Banger India Pale Ale",/beer/profile/46317/111616/,"American IPA",NULL,NULL,32
+33,/beer/profile/28743/,"Tree House Brewing Company","Double Shot",/beer/profile/28743/113784/,"American Stout",NULL,NULL,33
+34,/beer/profile/1199/,"Founders Brewing Company","Founders KBS (Kentucky Breakfast Stout)",/beer/profile/1199/19960/,"American Double / Imperial Stout",NULL,NULL,34
+35,/beer/profile/31540/,"de Garde Brewing","Nectarine Premiere",/beer/profile/31540/169616/,"Saison / Farmhouse Ale",NULL,NULL,35
+36,/beer/profile/17980/,"Lawson's Finest Liquids","Double Sunshine IPA",/beer/profile/17980/64545/,"American Double / Imperial IPA",NULL,NULL,36
+37,/beer/profile/22511/,"Hill Farmstead Brewery",Ann,/beer/profile/22511/81697/,"Saison / Farmhouse Ale",NULL,NULL,37
+38,/beer/profile/28743/,"Tree House Brewing Company","Alter Ego",/beer/profile/28743/176650/,"American IPA",NULL,NULL,38
+39,/beer/profile/30654/,"Trillium Brewing Company","Double Dry Hopped Congress Street",/beer/profile/30654/134064/,"American IPA",NULL,NULL,39
+4,/beer/profile/28743/,"Tree House Brewing Company","King Julius",/beer/profile/28743/87846/,"American Double / Imperial IPA",NULL,NULL,4
+40,/beer/profile/22511/,"Hill Farmstead Brewery","Society & Solitude #4",/beer/profile/22511/83008/,"American Double / Imperial IPA",NULL,NULL,40
+41,/beer/profile/32319/,"Side Project Brewing",Fuzzy,/beer/profile/32319/104649/,"American Wild Ale",NULL,NULL,41
+42,/beer/profile/28743/,"Tree House Brewing Company",Haze,/beer/profile/28743/125646/,"American Double / Imperial IPA",NULL,NULL,42
+43,/beer/profile/17980/,"Lawson's Finest Liquids","Sip Of Sunshine IPA",/beer/profile/17980/117177/,"American Double / Imperial IPA",NULL,NULL,43
+44,/beer/profile/28743/,"Tree House Brewing Company",Doppelganger,/beer/profile/28743/211516/,"American Double / Imperial IPA",NULL,NULL,44
+45,/beer/profile/14064/,"Kern River Brewing Company",Citra,/beer/profile/14064/56082/,"American Double / Imperial IPA",NULL,NULL,45
+46,/beer/profile/23222/,"Toppling Goliath Brewing Company","Assassin Imperial Stout",/beer/profile/23222/78660/,"American Double / Imperial Stout",NULL,NULL,46
+47,/beer/profile/30654/,"Trillium Brewing Company",Headroom,/beer/profile/30654/186936/,"American Double / Imperial IPA",NULL,NULL,47
+48,/beer/profile/20680/,"Fremont Brewing Company","The Rusty Nail",/beer/profile/20680/116702/,"American Double / Imperial Stout",NULL,NULL,48
+49,/beer/profile/2210/,"Firestone Walker Brewing Co.",Parabola,/beer/profile/2210/41815/,"Russian Imperial Stout",NULL,NULL,49
+5,/beer/profile/17981/,"Cigar City Brewing","Hunahpu's Imperial Stout - Double Barrel Aged",/beer/profile/17981/110635/,"American Double / Imperial Stout",NULL,NULL,5
+50,/beer/profile/22511/,"Hill Farmstead Brewery","Double Galaxy",/beer/profile/22511/67760/,"American Double / Imperial IPA",NULL,NULL,50
+51,/beer/profile/13307/,"Mikkeller ApS","Beer Geek Vanilla Shake (Bourbon Edition)",/beer/profile/13307/113093/,"American Double / Imperial Stout",NULL,NULL,51
+52,/beer/profile/388/,"Brasserie Cantillon","Cantillon Fou' Foune",/beer/profile/388/5281/,"Lambic - Fruit",NULL,NULL,52
+53,/beer/profile/28743/,"Tree House Brewing Company","In Perpetuity",/beer/profile/28743/189696/,"American IPA",NULL,NULL,53
+54,/beer/profile/26/,"3 Floyds Brewing Co.","Zombie Dust",/beer/profile/26/64228/,"American Pale Ale (APA)",NULL,NULL,54
+55,/beer/profile/22511/,"Hill Farmstead Brewery",Aaron,/beer/profile/22511/126517/,"English Barleywine",NULL,NULL,55
+56,/beer/profile/33519/,"Bissell Brothers Brewing Co.",Swish,/beer/profile/33519/123062/,"American Double / Imperial IPA",NULL,NULL,56
+57,/beer/profile/26676/,"Kane Brewing Company","Mexican Brunch",/beer/profile/26676/173480/,"American Porter",NULL,NULL,57
+58,/beer/profile/2216/,"Brouwerij 3 Fonteinen","Drie Fonteinen Zenne Y Frontera",/beer/profile/2216/188570/,"Lambic - Unblended",NULL,NULL,58
+59,/beer/profile/18149/,"The Lost Abbey","Duck Duck Gooze",/beer/profile/18149/51116/,Gueuze,NULL,NULL,59
+6,/beer/profile/25888/,"Perennial Artisan Ales","Barrel-Aged Abraxas",/beer/profile/25888/87246/,"American Double / Imperial Stout",NULL,NULL,6
+60,/beer/profile/24018/,"Jester King Brewery","Atrial Rubicite",/beer/profile/24018/94634/,"American Wild Ale",NULL,NULL,60
+61,/beer/profile/33510/,"Other Half Brewing Co.","Double Dry Hopped Double Mosaic Dream",/beer/profile/33510/249487/,"American Double / Imperial IPA",NULL,NULL,61
+62,/beer/profile/35412/,"Cycle Brewing","Trademark Dispute: Hazelnut",/beer/profile/35412/199995/,"American Double / Imperial Stout",NULL,NULL,62
+63,/beer/profile/20680/,"Fremont Brewing Company","Bourbon Barrel Aged Abominable: Coffee And Cinnamon",/beer/profile/20680/149554/,"American Strong Ale",NULL,NULL,63
+64,/beer/profile/30654/,"Trillium Brewing Company","Double Dry Hopped Fort Point Pale Ale",/beer/profile/30654/116067/,"American Pale Ale (APA)",NULL,NULL,64
+65,/beer/profile/31540/,"de Garde Brewing","The Broken Truck",/beer/profile/31540/173144/,"American Wild Ale",NULL,NULL,65
+66,/beer/profile/24300/,"Evil Twin Brewing","Evil Twin Double Barrel Jesus",/beer/profile/24300/115593/,"American Double / Imperial Stout",NULL,NULL,66
+67,/beer/profile/22511/,"Hill Farmstead Brewery","Double Citra",/beer/profile/22511/69522/,"American Double / Imperial IPA",NULL,NULL,67
+68,/beer/profile/30654/,"Trillium Brewing Company","Galaxy Dry Hopped Fort Point Pale Ale",/beer/profile/30654/107406/,"American Pale Ale (APA)",NULL,NULL,68
+69,/beer/profile/33344/,"Ozark Beer Co.",BDCS,/beer/profile/33344/164444/,"American Double / Imperial Stout",NULL,NULL,69
+7,/beer/profile/863/,"Russian River Brewing Company","Pliny The Younger",/beer/profile/863/21690/,"American Double / Imperial IPA",NULL,NULL,7
+70,/beer/profile/16843/,"Hangar 24 Brewery","Pugachev Royale",/beer/profile/16843/107620/,"Russian Imperial Stout",NULL,NULL,70
+71,/beer/profile/33510/,"Other Half Brewing Co.","Double Dry Hopped Mylar Bags",/beer/profile/33510/261445/,"American Double / Imperial IPA",NULL,NULL,71
+72,/beer/profile/2210/,"Firestone Walker Brewing Co.",Parabajava,/beer/profile/2210/92314/,"Russian Imperial Stout",NULL,NULL,72
+73,/beer/profile/17981/,"Cigar City Brewing","Hunahpu's Imperial Stout",/beer/profile/17981/47022/,"American Double / Imperial Stout",NULL,NULL,73
+74,/beer/profile/31540/,"de Garde Brewing","The Peach",/beer/profile/31540/199469/,"American Wild Ale",NULL,NULL,74
+75,/beer/profile/36710/,"J. Wakefield Brewing","Miami Madness",/beer/profile/36710/155870/,"Berliner Weissbier",NULL,NULL,75
+76,/beer/profile/28019/,"Sante Adairius Rustic Ales",Westly,/beer/profile/28019/136652/,"American Wild Ale",NULL,NULL,76
+77,/beer/profile/1146/,"Goose Island Beer Co.","Bourbon County Brand Stout",/beer/profile/1146/10672/,"American Double / Imperial Stout",NULL,NULL,77
+78,/beer/profile/23066/,"Boneyard Beer Company","Notorious Triple IPA",/beer/profile/23066/70013/,"American Double / Imperial IPA",NULL,NULL,78
+79,/beer/profile/863/,"Russian River Brewing Company",Supplication,/beer/profile/863/22227/,"American Wild Ale",NULL,NULL,79
+8,/beer/profile/28743/,"Tree House Brewing Company","King JJJuliusss",/beer/profile/28743/237238/,"American Double / Imperial IPA",NULL,NULL,8
+80,/beer/profile/28743/,"Tree House Brewing Company","Triple Shot",/beer/profile/28743/160275/,"American Double / Imperial Stout",NULL,NULL,80
+81,/beer/profile/287/,"Bell's Brewery, Inc.","Bell's Black Note Stout",/beer/profile/287/37265/,"American Double / Imperial Stout",NULL,NULL,81
+82,/beer/profile/30654/,"Trillium Brewing Company","Cutting Tiles (Mosaic)",/beer/profile/30654/169611/,"American Double / Imperial IPA",NULL,NULL,82
+83,/beer/profile/1146/,"Goose Island Beer Co.","Bourbon County Brand Barleywine Ale",/beer/profile/1146/100421/,"English Barleywine",NULL,NULL,83
+84,/beer/profile/2097/,"Kuhnhenn Brewing Company","Kuhnhenn Bourbon Barrel Fourth Dementia",/beer/profile/2097/34313/,"Old Ale",NULL,NULL,84
+85,/beer/profile/357/,"New England Brewing Co.","Fuzzy Baby Ducks IPA",/beer/profile/357/82482/,"American IPA",NULL,NULL,85
+86,/beer/profile/32319/,"Side Project Brewing","Saison Du Fermier",/beer/profile/32319/99350/,"Saison / Farmhouse Ale",NULL,NULL,86
+87,/beer/profile/26/,"3 Floyds Brewing Co.","Bourbon Barrel Aged Dark Lord Imperial Stout",/beer/profile/26/30184/,"Russian Imperial Stout",NULL,NULL,87
+88,/beer/profile/31805/,"Funky Buddha Brewery","Wide Awake It's Morning",/beer/profile/31805/67720/,"American Porter",NULL,NULL,88
+89,/beer/profile/388/,"Brasserie Cantillon","Cantillon Blåbær Lambik",/beer/profile/388/36316/,"Lambic - Fruit",NULL,NULL,89
+9,/beer/profile/46317/,"The Alchemist Brewery and Visitors Center","Heady Topper",/beer/profile/46317/16814/,"American Double / Imperial IPA",NULL,NULL,9
+90,/beer/profile/17981/,"Cigar City Brewing","Caffè Americano",/beer/profile/17981/98020/,"American Double / Imperial Stout",NULL,NULL,90
+91,/beer/profile/3120/,"Alpine Beer Company","Keene Idea",/beer/profile/3120/84225/,"American Double / Imperial IPA",NULL,NULL,91
+92,/beer/profile/42560/,"Aslin Beer Company","Master Of Karate",/beer/profile/42560/220377/,"American Double / Imperial IPA",NULL,NULL,92
+93,/beer/profile/23222/,"Toppling Goliath Brewing Company",Sosus,/beer/profile/23222/93219/,"American Double / Imperial IPA",NULL,NULL,93
+94,/beer/profile/63/,"Deschutes Brewery","The Abyss",/beer/profile/63/34420/,"American Double / Imperial Stout",NULL,NULL,94
+95,/beer/profile/30356/,"Prairie Artisan Ales",Bomb!,/beer/profile/30356/94350/,"American Double / Imperial Stout",NULL,NULL,95
+96,/beer/profile/30356/,"Prairie Artisan Ales","Pirate Bomb!",/beer/profile/30356/102340/,"American Double / Imperial Stout",NULL,NULL,96
+97,/beer/profile/23222/,"Toppling Goliath Brewing Company",PseudoSue,/beer/profile/23222/72170/,"American Pale Ale (APA)",NULL,NULL,97
+98,/beer/profile/46317/,"The Alchemist Brewery and Visitors Center",Crusher,/beer/profile/46317/114804/,"American Double / Imperial IPA",NULL,NULL,98
+99,/beer/profile/388/,"Brasserie Cantillon","Cantillon Lou Pepe - Kriek",/beer/profile/388/3659/,"Lambic - Fruit",NULL,NULL,99

@@ -1,0 +1,99 @@
+# -*- coding: utf-8 -*-
+from scrapy.selector import HtmlXPathSelector
+from scrapy.spiders import Rule
+from scrapy.linkextractors import LinkExtractor
+from scrapy.http import Request
+from crawlBA.items import TopItem
+from scrapy.spiders import Spider
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
+import scrapy
+
+
+class BaStylesSpider(CrawlSpider):
+    name = "ba_topbeers"
+    allowed_domains = ["beeradvocate.com"]
+    start_urls = [
+        "https://www.beeradvocate.com/lists/top/"
+    ]
+
+    # rules = (
+    #     Rule(LinkExtractor(allow=('/(\d+)/$', )), callback='parse_beers', process_links=lambda l: l[:1]),
+    # )
+
+    rules = (Rule(SgmlLinkExtractor(allow=()), 'parse_beers', follow=True),)
+    # rules = (Rule(SgmlLinkExtractor(allow=()), 'parse_start_url', follow=True),)
+
+    def parse_beers(self, response):
+        print 'parse_beers'
+        hxs = HtmlXPathSelector(response)
+        sites = hxs.select('//*[@id="ba-content"]/table/tr')
+        
+        self.log("Scraping: " + response.url)
+
+        items = []
+        test = sites
+        print 'TEST ' + test
+        # for site in sites[3:]:
+         # print 'in loop'
+        item = TopItem()
+        print 'beerName 1st '
+        item['rank'] = site.xpath('td[1]/span/text()').extract()
+        print 'did RANK'
+        item['beerUrl'] = site.xpath('td[2]/a/@href').extract()
+        item['beerName'] = site.xpath('td[2]/a/b/text()').extract()
+        item['breweryUrl'] = site.xpath('//*[@id="extendedInfo"]/a[1]/@href').extract()[0]
+        item['breweryName'] = site.xpath('/div[@id="extendedInfo"]/a[1]/text()')[0].extract()
+        print '^^^^^' 
+        test = site.xpath('td[2]/a/@href').extract()
+        print 'TEST ' + test
+        item['style'] = site.xpath('//*[@id="extendedInfo"]/a[2]/text()').extract()
+        item['abv'] = site.xpath('//*[@id="extendedInfo"]/text()').extract()
+        item['avg'] = site.xpath('td[3]/b/text()').extract
+         # yield item
+
+         tmp_link = site.xpath('td[2]/a/@href').extract()
+         new_links = ''.join(tmp_link)
+         print '===this is new links' + new_links
+         
+         request = Request('http://www.beeradvocate.com' + new_links, callback=self.parse_link)
+         request.meta['item'] = item
+         items.append(item)
+         return item
+
+             # yield item
+             # yield request
+
+    def parse_link(self, response):
+        # print 'parse_link loop'
+        item = response.meta['item']
+        hxs = HtmlXPathSelector(response)
+        blocks = hxs.select('//*[@id="rating_fullview_content_2"]')
+
+        lnkbeerUrl = item['beerUrl']
+        tmp_link = hxs.select('//*[@id="ba-content"]')
+        tst_tmp_link = tmp_link.xpath('//*[@id="ba-content"]/div[13]/span/a[contains(text(), "next")]/@href').extract()[0]
+        print '*****'
+        print '=' + tst_tmp_link
+
+        # yield item
+        for block in blocks:
+            item = TopItem()
+            print "in the block loop"
+            item['beerUrlRelate'] = lnkbeerUrl
+            item['userRating'] = block.select('//span[@class="BAscore_norm"]/text()').extract()
+            item['individRating'] = block.select('//*[@id="rating_fullview_content_2"]/span[4]').extract()
+            item['descrip'] = block.select('//*[@id="rating_fullview_content_2"]/text()[2]').extract()
+            item['beerUrl'] = lnkbeerUrl
+            item['referUrl'] = tst_tmp_link
+            print 'refertURL' + item['referUrl']
+            # yield item
+            print 'block loop end'
+        # return item
+
+        request = Request('http://www.beeradvocate.com' + tst_tmp_link, callback=self.parse_link)
+        request.meta['item'] = item
+        # yield item
+        # yield request
+
+    parse_start_url =parse_beers
